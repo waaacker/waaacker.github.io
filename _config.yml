@@ -1,9 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Waqar Syed # your name (or website title) here
+logo: "/images/photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  This is Waqar Syed's Portfolio 
   <br><br>
-  Second description 
+  Other Social Link:
+  https://www.linkedin.com/in/waqar-ali-syed/
+  https://www.instagram.com/waaaacker/'
+  Email: waqar.syed@torontomu.ca
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
